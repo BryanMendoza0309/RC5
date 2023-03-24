@@ -1,0 +1,110 @@
+  .iconBack{
+    color: white;
+    width: 40px; font-size: 24px;
+  }
+
+  .title{
+    --color : white;
+    //size: large;
+    text-align: center;
+    font-family: "Gotham-Bold";
+    font-size: 15px;
+  }
+
+  .title2{
+    text-align: center;
+    margin-top: 5%; margin-bottom: 4%;
+    font-family: "Gotham-Book";
+    font-size: 20px;
+    color: #00b9ec;
+    margin-bottom: 5px;
+  }
+
+  .linea {
+  border-top: 1px solid #00b9ec;
+  height: 2px;
+  max-width: 100px;
+  padding: 0;
+  margin: 10px auto 20px auto;
+  background-color: #00b9ec;
+  height: 5px;
+  }
+
+  h4{
+    font-family: "Gotham-Bold";
+  }
+
+
+  ion-text{
+    font-family: "Gotham-Book";
+  }
+
+ ion-item span{
+  font-size: 13px;
+ }
+
+.image--cover {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin: 0px;
+  object-fit: cover;
+  object-position: center right;
+}
+
+.users{
+  text-decoration: none;
+  color: #374457;
+  font-size: 18px;
+  font-weight: bold;
+  display:flex;
+  align-items:center;
+}
+
+.container-username{
+  margin-left: 20px;
+  display:flex;
+  flex-direction:column;
+}
+
+.header-username{
+  font-size: 14px;
+  font-family: "Gotham-Medium";
+}
+
+.cargoAsambl{
+  color: #929293; 
+  font-weight: 100; 
+  font-size: 12px;
+  font-family: "Gotham-Book";
+}
+
+.titleCard{
+  font-family: "Gotham-Medium";
+}
+
+.contentCard{
+  font-family: "Gotham-Book";
+}
+
+.fechaCard{
+  font-family: "Gotham-Medium";
+  margin-top: 5px;
+}
+
+.botonVer{
+  --border-color: #00b9ec;
+  color: #00b9ec;
+}
+
+ion-toolbar{
+  --background: #00b9ec;
+}
+
+.iconLoad{
+  color: #00b9ec;
+  margin: auto 10px auto auto;
+}
+.iconLoad2{
+  margin: auto 10px auto auto;
+}
